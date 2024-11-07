@@ -5,7 +5,7 @@
 ## 👉Acknowledgements of My Project
 #### This project involves writing comprehensive hashtag testscripts to validate the functionality of the web application, including user login,AddToCartPage, PersonalPage,and FinishPage . 
 #### The framework is designed for robustness and scalability, incorporating best practices such as Functional testing As well manual Testing . 
-#### This project showcases my proficiency in hashtag#automation hashtag#testing and my ability to ensure the reliability of web applications. 
+#### This project showcases my proficiency in hashtag automation hashtag testing and my ability to ensure the reliability of web applications. 
 
 ## Website : [Click Here](https://lnkd.in/gcwDKsCB)
 
